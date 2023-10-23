@@ -3,14 +3,5 @@ fun main(args: Array<String>) {
 //    myConsoleDbApp.start()
 
     val myApp = CalculatorApp()
-    myApp.start()
+    myApp.start(https://github.com/NPC11111/calculator.gi)
 }
-
-
-
-
-
-
-
-
-
